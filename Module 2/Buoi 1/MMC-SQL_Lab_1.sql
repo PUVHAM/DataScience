@@ -33,8 +33,8 @@ CREATE TABLE TypeQuestion (
 );
 
 CREATE TABLE CategoryQuestion (
-	CategoryID					INT,
-    CategoryName				VARCHAR(50)
+	CategoryID				INT,
+    CategoryName			VARCHAR(50)
 );
 
 CREATE TABLE  Question (
